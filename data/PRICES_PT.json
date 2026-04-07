@@ -1,0 +1,4112 @@
+[
+  {
+    "date": "20240101",
+    "avg": 37.76,
+    "solar_capture": 18.81
+  },
+  {
+    "date": "20240102",
+    "avg": 41.78,
+    "solar_capture": 47.15
+  },
+  {
+    "date": "20240103",
+    "avg": 55.94,
+    "solar_capture": 65.89
+  },
+  {
+    "date": "20240104",
+    "avg": 91.36,
+    "solar_capture": 93.54
+  },
+  {
+    "date": "20240105",
+    "avg": 68.92,
+    "solar_capture": 55.83
+  },
+  {
+    "date": "20240106",
+    "avg": 43.97,
+    "solar_capture": 18.27
+  },
+  {
+    "date": "20240107",
+    "avg": 76.0,
+    "solar_capture": 60.44
+  },
+  {
+    "date": "20240108",
+    "avg": 106.16,
+    "solar_capture": 106.37
+  },
+  {
+    "date": "20240109",
+    "avg": 113.83,
+    "solar_capture": 113.63
+  },
+  {
+    "date": "20240110",
+    "avg": 100.88,
+    "solar_capture": 102.44
+  },
+  {
+    "date": "20240111",
+    "avg": 96.97,
+    "solar_capture": 92.88
+  },
+  {
+    "date": "20240112",
+    "avg": 97.09,
+    "solar_capture": 96.91
+  },
+  {
+    "date": "20240113",
+    "avg": 87.1,
+    "solar_capture": 82.96
+  },
+  {
+    "date": "20240114",
+    "avg": 75.13,
+    "solar_capture": 69.18
+  },
+  {
+    "date": "20240115",
+    "avg": 87.56,
+    "solar_capture": 91.09
+  },
+  {
+    "date": "20240116",
+    "avg": 86.62,
+    "solar_capture": 91.32
+  },
+  {
+    "date": "20240117",
+    "avg": 26.96,
+    "solar_capture": 24.49
+  },
+  {
+    "date": "20240118",
+    "avg": 46.84,
+    "solar_capture": 48.05
+  },
+  {
+    "date": "20240119",
+    "avg": 70.87,
+    "solar_capture": 72.77
+  },
+  {
+    "date": "20240120",
+    "avg": 80.53,
+    "solar_capture": 79.61
+  },
+  {
+    "date": "20240121",
+    "avg": 64.4,
+    "solar_capture": 56.63
+  },
+  {
+    "date": "20240122",
+    "avg": 69.72,
+    "solar_capture": 66.95
+  },
+  {
+    "date": "20240123",
+    "avg": 78.02,
+    "solar_capture": 71.19
+  },
+  {
+    "date": "20240124",
+    "avg": 83.22,
+    "solar_capture": 68.34
+  },
+  {
+    "date": "20240125",
+    "avg": 76.8,
+    "solar_capture": 70.78
+  },
+  {
+    "date": "20240126",
+    "avg": 72.56,
+    "solar_capture": 63.49
+  },
+  {
+    "date": "20240127",
+    "avg": 65.87,
+    "solar_capture": 56.34
+  },
+  {
+    "date": "20240128",
+    "avg": 52.14,
+    "solar_capture": 44.07
+  },
+  {
+    "date": "20240129",
+    "avg": 77.59,
+    "solar_capture": 79.18
+  },
+  {
+    "date": "20240130",
+    "avg": 81.28,
+    "solar_capture": 76.0
+  },
+  {
+    "date": "20240131",
+    "avg": 82.6,
+    "solar_capture": 73.83
+  },
+  {
+    "date": "20240201",
+    "avg": 70.95,
+    "solar_capture": 63.03
+  },
+  {
+    "date": "20240202",
+    "avg": 65.32,
+    "solar_capture": 60.8
+  },
+  {
+    "date": "20240203",
+    "avg": 60.32,
+    "solar_capture": 49.24
+  },
+  {
+    "date": "20240204",
+    "avg": 63.1,
+    "solar_capture": 42.26
+  },
+  {
+    "date": "20240205",
+    "avg": 80.92,
+    "solar_capture": 67.01
+  },
+  {
+    "date": "20240206",
+    "avg": 74.03,
+    "solar_capture": 69.57
+  },
+  {
+    "date": "20240207",
+    "avg": 50.32,
+    "solar_capture": 48.14
+  },
+  {
+    "date": "20240208",
+    "avg": 38.08,
+    "solar_capture": 36.87
+  },
+  {
+    "date": "20240209",
+    "avg": 40.18,
+    "solar_capture": 52.1
+  },
+  {
+    "date": "20240210",
+    "avg": 9.47,
+    "solar_capture": 0.82
+  },
+  {
+    "date": "20240211",
+    "avg": 43.47,
+    "solar_capture": 43.16
+  },
+  {
+    "date": "20240212",
+    "avg": 45.85,
+    "solar_capture": 38.02
+  },
+  {
+    "date": "20240213",
+    "avg": 61.91,
+    "solar_capture": 64.03
+  },
+  {
+    "date": "20240214",
+    "avg": 58.7,
+    "solar_capture": 49.62
+  },
+  {
+    "date": "20240215",
+    "avg": 51.11,
+    "solar_capture": 51.7
+  },
+  {
+    "date": "20240216",
+    "avg": 54.24,
+    "solar_capture": 47.76
+  },
+  {
+    "date": "20240217",
+    "avg": 48.69,
+    "solar_capture": 37.21
+  },
+  {
+    "date": "20240218",
+    "avg": 47.04,
+    "solar_capture": 36.67
+  },
+  {
+    "date": "20240219",
+    "avg": 45.55,
+    "solar_capture": 35.17
+  },
+  {
+    "date": "20240220",
+    "avg": 52.61,
+    "solar_capture": 34.44
+  },
+  {
+    "date": "20240221",
+    "avg": 44.93,
+    "solar_capture": 35.7
+  },
+  {
+    "date": "20240222",
+    "avg": 10.71,
+    "solar_capture": 6.65
+  },
+  {
+    "date": "20240223",
+    "avg": 6.72,
+    "solar_capture": 2.86
+  },
+  {
+    "date": "20240224",
+    "avg": 6.94,
+    "solar_capture": 1.52
+  },
+  {
+    "date": "20240225",
+    "avg": 3.06,
+    "solar_capture": 1.51
+  },
+  {
+    "date": "20240226",
+    "avg": 3.82,
+    "solar_capture": 1.96
+  },
+  {
+    "date": "20240227",
+    "avg": 3.66,
+    "solar_capture": 0.87
+  },
+  {
+    "date": "20240228",
+    "avg": 9.35,
+    "solar_capture": 1.3
+  },
+  {
+    "date": "20240229",
+    "avg": 4.8,
+    "solar_capture": 1.4
+  },
+  {
+    "date": "20240301",
+    "avg": 2.14,
+    "solar_capture": 0.58
+  },
+  {
+    "date": "20240302",
+    "avg": 4.13,
+    "solar_capture": 0.79
+  },
+  {
+    "date": "20240303",
+    "avg": 3.79,
+    "solar_capture": 0.16
+  },
+  {
+    "date": "20240304",
+    "avg": 6.45,
+    "solar_capture": 3.9
+  },
+  {
+    "date": "20240305",
+    "avg": 32.83,
+    "solar_capture": 11.32
+  },
+  {
+    "date": "20240306",
+    "avg": 39.13,
+    "solar_capture": 14.11
+  },
+  {
+    "date": "20240307",
+    "avg": 8.52,
+    "solar_capture": 3.06
+  },
+  {
+    "date": "20240308",
+    "avg": 1.59,
+    "solar_capture": 0.66
+  },
+  {
+    "date": "20240309",
+    "avg": 0.59,
+    "solar_capture": 0.1
+  },
+  {
+    "date": "20240310",
+    "avg": 0.54,
+    "solar_capture": 0.04
+  },
+  {
+    "date": "20240311",
+    "avg": 14.63,
+    "solar_capture": 1.12
+  },
+  {
+    "date": "20240312",
+    "avg": 36.25,
+    "solar_capture": 7.45
+  },
+  {
+    "date": "20240313",
+    "avg": 36.34,
+    "solar_capture": 11.26
+  },
+  {
+    "date": "20240314",
+    "avg": 32.81,
+    "solar_capture": 16.63
+  },
+  {
+    "date": "20240315",
+    "avg": 37.73,
+    "solar_capture": 17.19
+  },
+  {
+    "date": "20240316",
+    "avg": 30.48,
+    "solar_capture": 7.75
+  },
+  {
+    "date": "20240317",
+    "avg": 28.01,
+    "solar_capture": 6.0
+  },
+  {
+    "date": "20240318",
+    "avg": 58.98,
+    "solar_capture": 42.3
+  },
+  {
+    "date": "20240319",
+    "avg": 64.32,
+    "solar_capture": 43.02
+  },
+  {
+    "date": "20240320",
+    "avg": 56.94,
+    "solar_capture": 37.94
+  },
+  {
+    "date": "20240321",
+    "avg": 35.9,
+    "solar_capture": 20.59
+  },
+  {
+    "date": "20240322",
+    "avg": 21.89,
+    "solar_capture": 9.24
+  },
+  {
+    "date": "20240323",
+    "avg": 2.01,
+    "solar_capture": 0.19
+  },
+  {
+    "date": "20240324",
+    "avg": 6.35,
+    "solar_capture": 0.3
+  },
+  {
+    "date": "20240325",
+    "avg": 21.49,
+    "solar_capture": 11.7
+  },
+  {
+    "date": "20240326",
+    "avg": 2.36,
+    "solar_capture": 0.42
+  },
+  {
+    "date": "20240327",
+    "avg": 0.75,
+    "solar_capture": 0.08
+  },
+  {
+    "date": "20240328",
+    "avg": 0.66,
+    "solar_capture": 0.06
+  },
+  {
+    "date": "20240329",
+    "avg": 4.05,
+    "solar_capture": 0.81
+  },
+  {
+    "date": "20240330",
+    "avg": 4.52,
+    "solar_capture": 0.89
+  },
+  {
+    "date": "20240401",
+    "avg": 2.76,
+    "solar_capture": 0.07
+  },
+  {
+    "date": "20240402",
+    "avg": 6.54,
+    "solar_capture": 1.57
+  },
+  {
+    "date": "20240403",
+    "avg": 8.91,
+    "solar_capture": 2.33
+  },
+  {
+    "date": "20240404",
+    "avg": 3.96,
+    "solar_capture": 0.99
+  },
+  {
+    "date": "20240405",
+    "avg": 0.1,
+    "solar_capture": -0.0
+  },
+  {
+    "date": "20240406",
+    "avg": 0.74,
+    "solar_capture": -0.01
+  },
+  {
+    "date": "20240407",
+    "avg": 4.05,
+    "solar_capture": 0.02
+  },
+  {
+    "date": "20240408",
+    "avg": 0.41,
+    "solar_capture": 0.13
+  },
+  {
+    "date": "20240409",
+    "avg": 1.29,
+    "solar_capture": -0.0
+  },
+  {
+    "date": "20240410",
+    "avg": 4.32,
+    "solar_capture": 0.73
+  },
+  {
+    "date": "20240411",
+    "avg": 12.02,
+    "solar_capture": 1.04
+  },
+  {
+    "date": "20240412",
+    "avg": 14.98,
+    "solar_capture": 2.45
+  },
+  {
+    "date": "20240413",
+    "avg": 9.21,
+    "solar_capture": 0.68
+  },
+  {
+    "date": "20240414",
+    "avg": 5.72,
+    "solar_capture": 0.0
+  },
+  {
+    "date": "20240415",
+    "avg": 3.35,
+    "solar_capture": 0.82
+  },
+  {
+    "date": "20240416",
+    "avg": 1.37,
+    "solar_capture": 0.19
+  },
+  {
+    "date": "20240417",
+    "avg": 2.67,
+    "solar_capture": 0.29
+  },
+  {
+    "date": "20240418",
+    "avg": 3.88,
+    "solar_capture": 0.45
+  },
+  {
+    "date": "20240419",
+    "avg": 14.59,
+    "solar_capture": 3.7
+  },
+  {
+    "date": "20240420",
+    "avg": 5.66,
+    "solar_capture": 0.63
+  },
+  {
+    "date": "20240421",
+    "avg": 2.4,
+    "solar_capture": 0.22
+  },
+  {
+    "date": "20240422",
+    "avg": 1.9,
+    "solar_capture": 0.02
+  },
+  {
+    "date": "20240423",
+    "avg": 5.84,
+    "solar_capture": 0.58
+  },
+  {
+    "date": "20240424",
+    "avg": 18.57,
+    "solar_capture": 2.22
+  },
+  {
+    "date": "20240425",
+    "avg": 38.6,
+    "solar_capture": 20.07
+  },
+  {
+    "date": "20240426",
+    "avg": 57.49,
+    "solar_capture": 35.21
+  },
+  {
+    "date": "20240427",
+    "avg": 25.02,
+    "solar_capture": 4.0
+  },
+  {
+    "date": "20240428",
+    "avg": 28.72,
+    "solar_capture": 3.87
+  },
+  {
+    "date": "20240429",
+    "avg": 58.27,
+    "solar_capture": 41.66
+  },
+  {
+    "date": "20240430",
+    "avg": 53.44,
+    "solar_capture": 30.54
+  },
+  {
+    "date": "20240501",
+    "avg": 12.64,
+    "solar_capture": 0.51
+  },
+  {
+    "date": "20240502",
+    "avg": 15.6,
+    "solar_capture": 4.17
+  },
+  {
+    "date": "20240503",
+    "avg": 26.11,
+    "solar_capture": 8.99
+  },
+  {
+    "date": "20240504",
+    "avg": 14.8,
+    "solar_capture": 1.18
+  },
+  {
+    "date": "20240505",
+    "avg": 17.53,
+    "solar_capture": 1.54
+  },
+  {
+    "date": "20240506",
+    "avg": 47.81,
+    "solar_capture": 23.8
+  },
+  {
+    "date": "20240507",
+    "avg": 43.26,
+    "solar_capture": 12.08
+  },
+  {
+    "date": "20240508",
+    "avg": 21.67,
+    "solar_capture": 7.85
+  },
+  {
+    "date": "20240509",
+    "avg": 35.74,
+    "solar_capture": 13.23
+  },
+  {
+    "date": "20240510",
+    "avg": 29.27,
+    "solar_capture": 8.06
+  },
+  {
+    "date": "20240511",
+    "avg": 20.68,
+    "solar_capture": 2.41
+  },
+  {
+    "date": "20240512",
+    "avg": 22.28,
+    "solar_capture": 2.98
+  },
+  {
+    "date": "20240513",
+    "avg": 23.36,
+    "solar_capture": 6.98
+  },
+  {
+    "date": "20240514",
+    "avg": 8.15,
+    "solar_capture": 1.51
+  },
+  {
+    "date": "20240515",
+    "avg": 14.25,
+    "solar_capture": 2.34
+  },
+  {
+    "date": "20240516",
+    "avg": 32.55,
+    "solar_capture": 7.66
+  },
+  {
+    "date": "20240517",
+    "avg": 53.42,
+    "solar_capture": 29.41
+  },
+  {
+    "date": "20240518",
+    "avg": 32.99,
+    "solar_capture": 5.28
+  },
+  {
+    "date": "20240519",
+    "avg": 26.65,
+    "solar_capture": 2.88
+  },
+  {
+    "date": "20240520",
+    "avg": 33.34,
+    "solar_capture": 11.34
+  },
+  {
+    "date": "20240521",
+    "avg": 46.09,
+    "solar_capture": 20.8
+  },
+  {
+    "date": "20240522",
+    "avg": 44.76,
+    "solar_capture": 18.75
+  },
+  {
+    "date": "20240523",
+    "avg": 60.45,
+    "solar_capture": 40.75
+  },
+  {
+    "date": "20240524",
+    "avg": 73.11,
+    "solar_capture": 53.78
+  },
+  {
+    "date": "20240525",
+    "avg": 43.71,
+    "solar_capture": 7.42
+  },
+  {
+    "date": "20240526",
+    "avg": 25.42,
+    "solar_capture": 1.38
+  },
+  {
+    "date": "20240527",
+    "avg": 30.84,
+    "solar_capture": 24.57
+  },
+  {
+    "date": "20240528",
+    "avg": 30.43,
+    "solar_capture": 17.35
+  },
+  {
+    "date": "20240529",
+    "avg": 38.86,
+    "solar_capture": 22.96
+  },
+  {
+    "date": "20240530",
+    "avg": 24.37,
+    "solar_capture": 6.09
+  },
+  {
+    "date": "20240531",
+    "avg": 2.69,
+    "solar_capture": 0.16
+  },
+  {
+    "date": "20240601",
+    "avg": 1.77,
+    "solar_capture": -0.31
+  },
+  {
+    "date": "20240602",
+    "avg": 4.61,
+    "solar_capture": -0.45
+  },
+  {
+    "date": "20240603",
+    "avg": 33.93,
+    "solar_capture": 25.46
+  },
+  {
+    "date": "20240604",
+    "avg": 92.14,
+    "solar_capture": 59.06
+  },
+  {
+    "date": "20240605",
+    "avg": 96.98,
+    "solar_capture": 69.0
+  },
+  {
+    "date": "20240606",
+    "avg": 93.42,
+    "solar_capture": 68.38
+  },
+  {
+    "date": "20240607",
+    "avg": 81.31,
+    "solar_capture": 59.21
+  },
+  {
+    "date": "20240608",
+    "avg": 71.42,
+    "solar_capture": 49.15
+  },
+  {
+    "date": "20240609",
+    "avg": 23.78,
+    "solar_capture": 0.7
+  },
+  {
+    "date": "20240610",
+    "avg": 45.65,
+    "solar_capture": 35.58
+  },
+  {
+    "date": "20240611",
+    "avg": 65.48,
+    "solar_capture": 44.5
+  },
+  {
+    "date": "20240612",
+    "avg": 57.88,
+    "solar_capture": 39.0
+  },
+  {
+    "date": "20240613",
+    "avg": 70.52,
+    "solar_capture": 37.85
+  },
+  {
+    "date": "20240614",
+    "avg": 43.74,
+    "solar_capture": 12.96
+  },
+  {
+    "date": "20240615",
+    "avg": 19.69,
+    "solar_capture": 0.87
+  },
+  {
+    "date": "20240616",
+    "avg": 16.65,
+    "solar_capture": 0.35
+  },
+  {
+    "date": "20240617",
+    "avg": 32.12,
+    "solar_capture": 16.9
+  },
+  {
+    "date": "20240618",
+    "avg": 57.07,
+    "solar_capture": 29.98
+  },
+  {
+    "date": "20240619",
+    "avg": 76.5,
+    "solar_capture": 49.75
+  },
+  {
+    "date": "20240620",
+    "avg": 90.73,
+    "solar_capture": 68.04
+  },
+  {
+    "date": "20240621",
+    "avg": 86.78,
+    "solar_capture": 65.39
+  },
+  {
+    "date": "20240622",
+    "avg": 45.95,
+    "solar_capture": 15.54
+  },
+  {
+    "date": "20240623",
+    "avg": 26.98,
+    "solar_capture": 0.69
+  },
+  {
+    "date": "20240624",
+    "avg": 57.71,
+    "solar_capture": 44.47
+  },
+  {
+    "date": "20240625",
+    "avg": 70.07,
+    "solar_capture": 40.37
+  },
+  {
+    "date": "20240626",
+    "avg": 97.17,
+    "solar_capture": 81.22
+  },
+  {
+    "date": "20240627",
+    "avg": 89.48,
+    "solar_capture": 69.34
+  },
+  {
+    "date": "20240628",
+    "avg": 83.47,
+    "solar_capture": 63.9
+  },
+  {
+    "date": "20240629",
+    "avg": 50.54,
+    "solar_capture": 29.17
+  },
+  {
+    "date": "20240630",
+    "avg": 59.77,
+    "solar_capture": 20.0
+  },
+  {
+    "date": "20240701",
+    "avg": 60.99,
+    "solar_capture": 50.28
+  },
+  {
+    "date": "20240702",
+    "avg": 58.04,
+    "solar_capture": 47.02
+  },
+  {
+    "date": "20240703",
+    "avg": 71.67,
+    "solar_capture": 54.65
+  },
+  {
+    "date": "20240704",
+    "avg": 72.71,
+    "solar_capture": 51.96
+  },
+  {
+    "date": "20240705",
+    "avg": 61.0,
+    "solar_capture": 24.14
+  },
+  {
+    "date": "20240706",
+    "avg": 33.98,
+    "solar_capture": 1.55
+  },
+  {
+    "date": "20240707",
+    "avg": 34.71,
+    "solar_capture": 1.72
+  },
+  {
+    "date": "20240708",
+    "avg": 74.12,
+    "solar_capture": 47.08
+  },
+  {
+    "date": "20240709",
+    "avg": 72.07,
+    "solar_capture": 44.02
+  },
+  {
+    "date": "20240710",
+    "avg": 87.72,
+    "solar_capture": 60.26
+  },
+  {
+    "date": "20240711",
+    "avg": 85.79,
+    "solar_capture": 65.23
+  },
+  {
+    "date": "20240712",
+    "avg": 59.1,
+    "solar_capture": 42.43
+  },
+  {
+    "date": "20240713",
+    "avg": 51.5,
+    "solar_capture": 9.44
+  },
+  {
+    "date": "20240714",
+    "avg": 52.51,
+    "solar_capture": 3.96
+  },
+  {
+    "date": "20240715",
+    "avg": 53.95,
+    "solar_capture": 19.86
+  },
+  {
+    "date": "20240716",
+    "avg": 87.24,
+    "solar_capture": 66.45
+  },
+  {
+    "date": "20240717",
+    "avg": 94.42,
+    "solar_capture": 77.8
+  },
+  {
+    "date": "20240718",
+    "avg": 101.37,
+    "solar_capture": 88.43
+  },
+  {
+    "date": "20240719",
+    "avg": 97.78,
+    "solar_capture": 83.48
+  },
+  {
+    "date": "20240720",
+    "avg": 51.53,
+    "solar_capture": 8.87
+  },
+  {
+    "date": "20240721",
+    "avg": 30.43,
+    "solar_capture": 1.77
+  },
+  {
+    "date": "20240722",
+    "avg": 79.53,
+    "solar_capture": 59.01
+  },
+  {
+    "date": "20240723",
+    "avg": 91.73,
+    "solar_capture": 74.91
+  },
+  {
+    "date": "20240724",
+    "avg": 94.88,
+    "solar_capture": 81.64
+  },
+  {
+    "date": "20240725",
+    "avg": 89.53,
+    "solar_capture": 71.52
+  },
+  {
+    "date": "20240726",
+    "avg": 94.9,
+    "solar_capture": 78.9
+  },
+  {
+    "date": "20240727",
+    "avg": 76.97,
+    "solar_capture": 39.6
+  },
+  {
+    "date": "20240728",
+    "avg": 63.33,
+    "solar_capture": 9.46
+  },
+  {
+    "date": "20240729",
+    "avg": 108.78,
+    "solar_capture": 103.05
+  },
+  {
+    "date": "20240730",
+    "avg": 99.77,
+    "solar_capture": 79.75
+  },
+  {
+    "date": "20240731",
+    "avg": 105.56,
+    "solar_capture": 89.18
+  },
+  {
+    "date": "20240801",
+    "avg": 107.32,
+    "solar_capture": 95.38
+  },
+  {
+    "date": "20240802",
+    "avg": 93.5,
+    "solar_capture": 67.8
+  },
+  {
+    "date": "20240803",
+    "avg": 77.64,
+    "solar_capture": 24.59
+  },
+  {
+    "date": "20240804",
+    "avg": 75.48,
+    "solar_capture": 17.63
+  },
+  {
+    "date": "20240805",
+    "avg": 109.82,
+    "solar_capture": 91.23
+  },
+  {
+    "date": "20240806",
+    "avg": 105.56,
+    "solar_capture": 90.36
+  },
+  {
+    "date": "20240807",
+    "avg": 97.46,
+    "solar_capture": 82.76
+  },
+  {
+    "date": "20240808",
+    "avg": 101.19,
+    "solar_capture": 87.47
+  },
+  {
+    "date": "20240809",
+    "avg": 102.32,
+    "solar_capture": 85.77
+  },
+  {
+    "date": "20240810",
+    "avg": 71.36,
+    "solar_capture": 15.1
+  },
+  {
+    "date": "20240811",
+    "avg": 69.22,
+    "solar_capture": 10.65
+  },
+  {
+    "date": "20240812",
+    "avg": 105.81,
+    "solar_capture": 88.53
+  },
+  {
+    "date": "20240813",
+    "avg": 106.37,
+    "solar_capture": 92.4
+  },
+  {
+    "date": "20240814",
+    "avg": 89.05,
+    "solar_capture": 69.76
+  },
+  {
+    "date": "20240815",
+    "avg": 44.29,
+    "solar_capture": 4.2
+  },
+  {
+    "date": "20240816",
+    "avg": 88.23,
+    "solar_capture": 62.25
+  },
+  {
+    "date": "20240817",
+    "avg": 83.21,
+    "solar_capture": 51.04
+  },
+  {
+    "date": "20240818",
+    "avg": 55.6,
+    "solar_capture": 7.11
+  },
+  {
+    "date": "20240819",
+    "avg": 93.72,
+    "solar_capture": 78.34
+  },
+  {
+    "date": "20240820",
+    "avg": 95.62,
+    "solar_capture": 70.63
+  },
+  {
+    "date": "20240821",
+    "avg": 80.67,
+    "solar_capture": 47.04
+  },
+  {
+    "date": "20240822",
+    "avg": 109.4,
+    "solar_capture": 88.34
+  },
+  {
+    "date": "20240823",
+    "avg": 107.09,
+    "solar_capture": 88.86
+  },
+  {
+    "date": "20240824",
+    "avg": 60.48,
+    "solar_capture": 7.5
+  },
+  {
+    "date": "20240825",
+    "avg": 31.2,
+    "solar_capture": 1.24
+  },
+  {
+    "date": "20240826",
+    "avg": 94.19,
+    "solar_capture": 75.77
+  },
+  {
+    "date": "20240827",
+    "avg": 107.71,
+    "solar_capture": 85.47
+  },
+  {
+    "date": "20240828",
+    "avg": 108.43,
+    "solar_capture": 89.03
+  },
+  {
+    "date": "20240829",
+    "avg": 120.37,
+    "solar_capture": 114.27
+  },
+  {
+    "date": "20240830",
+    "avg": 115.57,
+    "solar_capture": 101.27
+  },
+  {
+    "date": "20240831",
+    "avg": 116.61,
+    "solar_capture": 96.75
+  },
+  {
+    "date": "20240901",
+    "avg": 99.64,
+    "solar_capture": 57.59
+  },
+  {
+    "date": "20240902",
+    "avg": 116.66,
+    "solar_capture": 99.19
+  },
+  {
+    "date": "20240903",
+    "avg": 108.44,
+    "solar_capture": 92.64
+  },
+  {
+    "date": "20240904",
+    "avg": 95.41,
+    "solar_capture": 78.38
+  },
+  {
+    "date": "20240905",
+    "avg": 104.5,
+    "solar_capture": 90.95
+  },
+  {
+    "date": "20240906",
+    "avg": 86.72,
+    "solar_capture": 58.51
+  },
+  {
+    "date": "20240907",
+    "avg": 87.06,
+    "solar_capture": 47.27
+  },
+  {
+    "date": "20240908",
+    "avg": 67.76,
+    "solar_capture": 12.96
+  },
+  {
+    "date": "20240909",
+    "avg": 90.84,
+    "solar_capture": 60.65
+  },
+  {
+    "date": "20240910",
+    "avg": 82.2,
+    "solar_capture": 52.16
+  },
+  {
+    "date": "20240911",
+    "avg": 76.74,
+    "solar_capture": 53.01
+  },
+  {
+    "date": "20240912",
+    "avg": 72.21,
+    "solar_capture": 37.84
+  },
+  {
+    "date": "20240913",
+    "avg": 47.13,
+    "solar_capture": 9.81
+  },
+  {
+    "date": "20240914",
+    "avg": 45.61,
+    "solar_capture": 11.71
+  },
+  {
+    "date": "20240915",
+    "avg": 32.57,
+    "solar_capture": 2.97
+  },
+  {
+    "date": "20240916",
+    "avg": 27.28,
+    "solar_capture": 8.13
+  },
+  {
+    "date": "20240917",
+    "avg": 25.72,
+    "solar_capture": 6.74
+  },
+  {
+    "date": "20240918",
+    "avg": 90.92,
+    "solar_capture": 71.76
+  },
+  {
+    "date": "20240919",
+    "avg": 106.98,
+    "solar_capture": 98.48
+  },
+  {
+    "date": "20240920",
+    "avg": 107.69,
+    "solar_capture": 92.72
+  },
+  {
+    "date": "20240921",
+    "avg": 85.39,
+    "solar_capture": 57.09
+  },
+  {
+    "date": "20240922",
+    "avg": 69.94,
+    "solar_capture": 24.1
+  },
+  {
+    "date": "20240923",
+    "avg": 91.1,
+    "solar_capture": 62.97
+  },
+  {
+    "date": "20240924",
+    "avg": 95.81,
+    "solar_capture": 75.78
+  },
+  {
+    "date": "20240925",
+    "avg": 57.22,
+    "solar_capture": 42.31
+  },
+  {
+    "date": "20240926",
+    "avg": 24.18,
+    "solar_capture": 8.42
+  },
+  {
+    "date": "20240927",
+    "avg": 30.43,
+    "solar_capture": 5.04
+  },
+  {
+    "date": "20240928",
+    "avg": 46.81,
+    "solar_capture": 7.24
+  },
+  {
+    "date": "20240929",
+    "avg": 43.7,
+    "solar_capture": 5.52
+  },
+  {
+    "date": "20240930",
+    "avg": 92.14,
+    "solar_capture": 55.72
+  },
+  {
+    "date": "20241001",
+    "avg": 98.07,
+    "solar_capture": 73.69
+  },
+  {
+    "date": "20241002",
+    "avg": 93.59,
+    "solar_capture": 83.92
+  },
+  {
+    "date": "20241003",
+    "avg": 67.45,
+    "solar_capture": 64.69
+  },
+  {
+    "date": "20241004",
+    "avg": 98.98,
+    "solar_capture": 73.98
+  },
+  {
+    "date": "20241005",
+    "avg": 60.4,
+    "solar_capture": 24.54
+  },
+  {
+    "date": "20241006",
+    "avg": 21.96,
+    "solar_capture": 2.73
+  },
+  {
+    "date": "20241007",
+    "avg": 55.46,
+    "solar_capture": 48.42
+  },
+  {
+    "date": "20241008",
+    "avg": 31.37,
+    "solar_capture": 13.4
+  },
+  {
+    "date": "20241009",
+    "avg": 24.52,
+    "solar_capture": 22.27
+  },
+  {
+    "date": "20241010",
+    "avg": 76.18,
+    "solar_capture": 55.09
+  },
+  {
+    "date": "20241011",
+    "avg": 87.38,
+    "solar_capture": 75.79
+  },
+  {
+    "date": "20241012",
+    "avg": 69.86,
+    "solar_capture": 66.6
+  },
+  {
+    "date": "20241013",
+    "avg": 52.78,
+    "solar_capture": 16.08
+  },
+  {
+    "date": "20241014",
+    "avg": 104.17,
+    "solar_capture": 92.26
+  },
+  {
+    "date": "20241015",
+    "avg": 87.23,
+    "solar_capture": 84.18
+  },
+  {
+    "date": "20241016",
+    "avg": 48.84,
+    "solar_capture": 22.1
+  },
+  {
+    "date": "20241017",
+    "avg": 51.25,
+    "solar_capture": 19.8
+  },
+  {
+    "date": "20241018",
+    "avg": 63.6,
+    "solar_capture": 57.02
+  },
+  {
+    "date": "20241019",
+    "avg": 49.84,
+    "solar_capture": 28.86
+  },
+  {
+    "date": "20241020",
+    "avg": 51.29,
+    "solar_capture": 16.15
+  },
+  {
+    "date": "20241021",
+    "avg": 94.0,
+    "solar_capture": 80.77
+  },
+  {
+    "date": "20241022",
+    "avg": 80.18,
+    "solar_capture": 66.91
+  },
+  {
+    "date": "20241023",
+    "avg": 87.25,
+    "solar_capture": 72.58
+  },
+  {
+    "date": "20241024",
+    "avg": 70.19,
+    "solar_capture": 55.38
+  },
+  {
+    "date": "20241025",
+    "avg": 63.83,
+    "solar_capture": 58.06
+  },
+  {
+    "date": "20241026",
+    "avg": 50.54,
+    "solar_capture": 35.56
+  },
+  {
+    "date": "20241028",
+    "avg": 75.78,
+    "solar_capture": 64.79
+  },
+  {
+    "date": "20241029",
+    "avg": 73.4,
+    "solar_capture": 73.3
+  },
+  {
+    "date": "20241030",
+    "avg": 83.82,
+    "solar_capture": 78.52
+  },
+  {
+    "date": "20241031",
+    "avg": 100.77,
+    "solar_capture": 96.59
+  },
+  {
+    "date": "20241101",
+    "avg": 81.61,
+    "solar_capture": 65.4
+  },
+  {
+    "date": "20241102",
+    "avg": 91.94,
+    "solar_capture": 79.37
+  },
+  {
+    "date": "20241103",
+    "avg": 72.57,
+    "solar_capture": 36.81
+  },
+  {
+    "date": "20241104",
+    "avg": 108.72,
+    "solar_capture": 104.46
+  },
+  {
+    "date": "20241105",
+    "avg": 117.05,
+    "solar_capture": 110.11
+  },
+  {
+    "date": "20241106",
+    "avg": 116.83,
+    "solar_capture": 100.63
+  },
+  {
+    "date": "20241107",
+    "avg": 111.83,
+    "solar_capture": 104.09
+  },
+  {
+    "date": "20241108",
+    "avg": 117.49,
+    "solar_capture": 116.61
+  },
+  {
+    "date": "20241109",
+    "avg": 110.46,
+    "solar_capture": 104.94
+  },
+  {
+    "date": "20241110",
+    "avg": 90.9,
+    "solar_capture": 64.44
+  },
+  {
+    "date": "20241111",
+    "avg": 80.8,
+    "solar_capture": 51.64
+  },
+  {
+    "date": "20241112",
+    "avg": 64.74,
+    "solar_capture": 27.85
+  },
+  {
+    "date": "20241113",
+    "avg": 105.62,
+    "solar_capture": 96.87
+  },
+  {
+    "date": "20241114",
+    "avg": 118.62,
+    "solar_capture": 125.09
+  },
+  {
+    "date": "20241115",
+    "avg": 124.55,
+    "solar_capture": 126.58
+  },
+  {
+    "date": "20241116",
+    "avg": 112.16,
+    "solar_capture": 109.01
+  },
+  {
+    "date": "20241117",
+    "avg": 114.02,
+    "solar_capture": 97.53
+  },
+  {
+    "date": "20241118",
+    "avg": 136.37,
+    "solar_capture": 130.31
+  },
+  {
+    "date": "20241119",
+    "avg": 133.49,
+    "solar_capture": 125.05
+  },
+  {
+    "date": "20241120",
+    "avg": 95.79,
+    "solar_capture": 71.31
+  },
+  {
+    "date": "20241121",
+    "avg": 78.71,
+    "solar_capture": 53.9
+  },
+  {
+    "date": "20241122",
+    "avg": 119.52,
+    "solar_capture": 118.49
+  },
+  {
+    "date": "20241123",
+    "avg": 78.19,
+    "solar_capture": 53.05
+  },
+  {
+    "date": "20241124",
+    "avg": 10.71,
+    "solar_capture": 4.94
+  },
+  {
+    "date": "20241125",
+    "avg": 82.01,
+    "solar_capture": 89.22
+  },
+  {
+    "date": "20241126",
+    "avg": 143.25,
+    "solar_capture": 142.57
+  },
+  {
+    "date": "20241127",
+    "avg": 136.45,
+    "solar_capture": 120.34
+  },
+  {
+    "date": "20241128",
+    "avg": 132.19,
+    "solar_capture": 120.02
+  },
+  {
+    "date": "20241129",
+    "avg": 127.3,
+    "solar_capture": 121.39
+  },
+  {
+    "date": "20241130",
+    "avg": 124.01,
+    "solar_capture": 105.02
+  },
+  {
+    "date": "20241201",
+    "avg": 126.52,
+    "solar_capture": 121.55
+  },
+  {
+    "date": "20241202",
+    "avg": 143.21,
+    "solar_capture": 139.71
+  },
+  {
+    "date": "20241203",
+    "avg": 140.43,
+    "solar_capture": 138.14
+  },
+  {
+    "date": "20241204",
+    "avg": 134.22,
+    "solar_capture": 128.17
+  },
+  {
+    "date": "20241205",
+    "avg": 135.62,
+    "solar_capture": 122.0
+  },
+  {
+    "date": "20241206",
+    "avg": 118.66,
+    "solar_capture": 113.3
+  },
+  {
+    "date": "20241207",
+    "avg": 36.67,
+    "solar_capture": 14.11
+  },
+  {
+    "date": "20241208",
+    "avg": 22.19,
+    "solar_capture": 6.04
+  },
+  {
+    "date": "20241209",
+    "avg": 67.19,
+    "solar_capture": 36.96
+  },
+  {
+    "date": "20241210",
+    "avg": 134.22,
+    "solar_capture": 130.39
+  },
+  {
+    "date": "20241211",
+    "avg": 140.61,
+    "solar_capture": 135.47
+  },
+  {
+    "date": "20241212",
+    "avg": 146.67,
+    "solar_capture": 149.68
+  },
+  {
+    "date": "20241213",
+    "avg": 145.29,
+    "solar_capture": 147.12
+  },
+  {
+    "date": "20241214",
+    "avg": 128.84,
+    "solar_capture": 115.37
+  },
+  {
+    "date": "20241215",
+    "avg": 102.99,
+    "solar_capture": 81.32
+  },
+  {
+    "date": "20241216",
+    "avg": 120.86,
+    "solar_capture": 109.71
+  },
+  {
+    "date": "20241217",
+    "avg": 121.85,
+    "solar_capture": 117.22
+  },
+  {
+    "date": "20241218",
+    "avg": 113.44,
+    "solar_capture": 106.98
+  },
+  {
+    "date": "20241219",
+    "avg": 79.8,
+    "solar_capture": 79.61
+  },
+  {
+    "date": "20241220",
+    "avg": 114.67,
+    "solar_capture": 105.27
+  },
+  {
+    "date": "20241221",
+    "avg": 94.73,
+    "solar_capture": 61.0
+  },
+  {
+    "date": "20241222",
+    "avg": 53.93,
+    "solar_capture": 23.94
+  },
+  {
+    "date": "20241223",
+    "avg": 46.57,
+    "solar_capture": 24.31
+  },
+  {
+    "date": "20241224",
+    "avg": 73.85,
+    "solar_capture": 52.83
+  },
+  {
+    "date": "20241225",
+    "avg": 100.94,
+    "solar_capture": 92.45
+  },
+  {
+    "date": "20241226",
+    "avg": 133.94,
+    "solar_capture": 121.08
+  },
+  {
+    "date": "20241227",
+    "avg": 133.6,
+    "solar_capture": 121.18
+  },
+  {
+    "date": "20241228",
+    "avg": 133.13,
+    "solar_capture": 119.96
+  },
+  {
+    "date": "20241229",
+    "avg": 136.15,
+    "solar_capture": 118.76
+  },
+  {
+    "date": "20241230",
+    "avg": 140.94,
+    "solar_capture": 129.71
+  },
+  {
+    "date": "20241231",
+    "avg": 135.86,
+    "solar_capture": 122.75
+  },
+  {
+    "date": "20250101",
+    "avg": 103.62,
+    "solar_capture": 54.18
+  },
+  {
+    "date": "20250102",
+    "avg": 134.38,
+    "solar_capture": 132.24
+  },
+  {
+    "date": "20250103",
+    "avg": 122.44,
+    "solar_capture": 120.58
+  },
+  {
+    "date": "20250104",
+    "avg": 111.73,
+    "solar_capture": 103.31
+  },
+  {
+    "date": "20250105",
+    "avg": 51.44,
+    "solar_capture": 41.53
+  },
+  {
+    "date": "20250106",
+    "avg": 47.53,
+    "solar_capture": 38.88
+  },
+  {
+    "date": "20250107",
+    "avg": 86.06,
+    "solar_capture": 86.45
+  },
+  {
+    "date": "20250108",
+    "avg": 98.73,
+    "solar_capture": 102.93
+  },
+  {
+    "date": "20250109",
+    "avg": 87.4,
+    "solar_capture": 93.74
+  },
+  {
+    "date": "20250110",
+    "avg": 111.87,
+    "solar_capture": 116.91
+  },
+  {
+    "date": "20250111",
+    "avg": 95.88,
+    "solar_capture": 83.79
+  },
+  {
+    "date": "20250112",
+    "avg": 73.89,
+    "solar_capture": 26.76
+  },
+  {
+    "date": "20250113",
+    "avg": 125.81,
+    "solar_capture": 119.87
+  },
+  {
+    "date": "20250114",
+    "avg": 136.93,
+    "solar_capture": 126.93
+  },
+  {
+    "date": "20250115",
+    "avg": 140.68,
+    "solar_capture": 135.3
+  },
+  {
+    "date": "20250116",
+    "avg": 134.08,
+    "solar_capture": 127.76
+  },
+  {
+    "date": "20250117",
+    "avg": 134.56,
+    "solar_capture": 123.65
+  },
+  {
+    "date": "20250118",
+    "avg": 133.16,
+    "solar_capture": 122.89
+  },
+  {
+    "date": "20250119",
+    "avg": 124.77,
+    "solar_capture": 111.31
+  },
+  {
+    "date": "20250120",
+    "avg": 144.92,
+    "solar_capture": 154.5
+  },
+  {
+    "date": "20250121",
+    "avg": 139.28,
+    "solar_capture": 143.39
+  },
+  {
+    "date": "20250122",
+    "avg": 134.96,
+    "solar_capture": 137.34
+  },
+  {
+    "date": "20250123",
+    "avg": 140.55,
+    "solar_capture": 137.87
+  },
+  {
+    "date": "20250124",
+    "avg": 91.75,
+    "solar_capture": 85.96
+  },
+  {
+    "date": "20250125",
+    "avg": 42.52,
+    "solar_capture": 27.3
+  },
+  {
+    "date": "20250126",
+    "avg": 26.42,
+    "solar_capture": 16.54
+  },
+  {
+    "date": "20250127",
+    "avg": 21.1,
+    "solar_capture": 18.94
+  },
+  {
+    "date": "20250128",
+    "avg": 16.37,
+    "solar_capture": 6.86
+  },
+  {
+    "date": "20250129",
+    "avg": 47.12,
+    "solar_capture": 35.13
+  },
+  {
+    "date": "20250130",
+    "avg": 42.4,
+    "solar_capture": 13.16
+  },
+  {
+    "date": "20250131",
+    "avg": 96.33,
+    "solar_capture": 65.46
+  },
+  {
+    "date": "20250201",
+    "avg": 95.26,
+    "solar_capture": 38.49
+  },
+  {
+    "date": "20250202",
+    "avg": 124.74,
+    "solar_capture": 107.74
+  },
+  {
+    "date": "20250203",
+    "avg": 132.49,
+    "solar_capture": 117.28
+  },
+  {
+    "date": "20250204",
+    "avg": 143.39,
+    "solar_capture": 121.06
+  },
+  {
+    "date": "20250205",
+    "avg": 117.51,
+    "solar_capture": 70.02
+  },
+  {
+    "date": "20250206",
+    "avg": 138.6,
+    "solar_capture": 109.89
+  },
+  {
+    "date": "20250207",
+    "avg": 116.79,
+    "solar_capture": 102.59
+  },
+  {
+    "date": "20250208",
+    "avg": 105.1,
+    "solar_capture": 76.87
+  },
+  {
+    "date": "20250209",
+    "avg": 109.6,
+    "solar_capture": 80.43
+  },
+  {
+    "date": "20250210",
+    "avg": 139.52,
+    "solar_capture": 128.47
+  },
+  {
+    "date": "20250211",
+    "avg": 132.44,
+    "solar_capture": 122.01
+  },
+  {
+    "date": "20250212",
+    "avg": 119.86,
+    "solar_capture": 91.4
+  },
+  {
+    "date": "20250213",
+    "avg": 130.98,
+    "solar_capture": 103.27
+  },
+  {
+    "date": "20250214",
+    "avg": 121.07,
+    "solar_capture": 82.62
+  },
+  {
+    "date": "20250215",
+    "avg": 90.43,
+    "solar_capture": 53.61
+  },
+  {
+    "date": "20250216",
+    "avg": 88.22,
+    "solar_capture": 48.05
+  },
+  {
+    "date": "20250217",
+    "avg": 138.17,
+    "solar_capture": 119.24
+  },
+  {
+    "date": "20250218",
+    "avg": 79.73,
+    "solar_capture": 43.64
+  },
+  {
+    "date": "20250219",
+    "avg": 123.56,
+    "solar_capture": 109.2
+  },
+  {
+    "date": "20250220",
+    "avg": 87.57,
+    "solar_capture": 54.13
+  },
+  {
+    "date": "20250221",
+    "avg": 47.99,
+    "solar_capture": 21.0
+  },
+  {
+    "date": "20250222",
+    "avg": 70.84,
+    "solar_capture": 55.86
+  },
+  {
+    "date": "20250223",
+    "avg": 65.81,
+    "solar_capture": 24.24
+  },
+  {
+    "date": "20250224",
+    "avg": 78.57,
+    "solar_capture": 62.3
+  },
+  {
+    "date": "20250225",
+    "avg": 94.84,
+    "solar_capture": 82.95
+  },
+  {
+    "date": "20250226",
+    "avg": 105.34,
+    "solar_capture": 73.34
+  },
+  {
+    "date": "20250227",
+    "avg": 120.43,
+    "solar_capture": 103.35
+  },
+  {
+    "date": "20250228",
+    "avg": 111.2,
+    "solar_capture": 97.81
+  },
+  {
+    "date": "20250301",
+    "avg": 65.83,
+    "solar_capture": 45.63
+  },
+  {
+    "date": "20250302",
+    "avg": 65.56,
+    "solar_capture": 51.31
+  },
+  {
+    "date": "20250303",
+    "avg": 96.99,
+    "solar_capture": 94.43
+  },
+  {
+    "date": "20250304",
+    "avg": 96.44,
+    "solar_capture": 75.9
+  },
+  {
+    "date": "20250305",
+    "avg": 78.88,
+    "solar_capture": 56.61
+  },
+  {
+    "date": "20250306",
+    "avg": 78.06,
+    "solar_capture": 68.1
+  },
+  {
+    "date": "20250307",
+    "avg": 49.08,
+    "solar_capture": 31.55
+  },
+  {
+    "date": "20250308",
+    "avg": 15.22,
+    "solar_capture": 3.75
+  },
+  {
+    "date": "20250309",
+    "avg": 46.51,
+    "solar_capture": 19.57
+  },
+  {
+    "date": "20250310",
+    "avg": 88.13,
+    "solar_capture": 80.86
+  },
+  {
+    "date": "20250311",
+    "avg": 96.94,
+    "solar_capture": 84.28
+  },
+  {
+    "date": "20250312",
+    "avg": 93.06,
+    "solar_capture": 78.54
+  },
+  {
+    "date": "20250313",
+    "avg": 111.73,
+    "solar_capture": 106.48
+  },
+  {
+    "date": "20250314",
+    "avg": 57.68,
+    "solar_capture": 29.69
+  },
+  {
+    "date": "20250315",
+    "avg": 48.89,
+    "solar_capture": 7.54
+  },
+  {
+    "date": "20250316",
+    "avg": 60.58,
+    "solar_capture": 22.61
+  },
+  {
+    "date": "20250317",
+    "avg": 84.06,
+    "solar_capture": 68.93
+  },
+  {
+    "date": "20250318",
+    "avg": 57.68,
+    "solar_capture": 29.73
+  },
+  {
+    "date": "20250319",
+    "avg": 23.02,
+    "solar_capture": 5.02
+  },
+  {
+    "date": "20250320",
+    "avg": 22.69,
+    "solar_capture": 8.61
+  },
+  {
+    "date": "20250321",
+    "avg": 10.69,
+    "solar_capture": 2.38
+  },
+  {
+    "date": "20250322",
+    "avg": 11.23,
+    "solar_capture": 0.79
+  },
+  {
+    "date": "20250323",
+    "avg": 28.37,
+    "solar_capture": 3.05
+  },
+  {
+    "date": "20250324",
+    "avg": 44.45,
+    "solar_capture": 10.49
+  },
+  {
+    "date": "20250325",
+    "avg": 42.42,
+    "solar_capture": 7.64
+  },
+  {
+    "date": "20250326",
+    "avg": 36.3,
+    "solar_capture": 4.22
+  },
+  {
+    "date": "20250327",
+    "avg": 54.6,
+    "solar_capture": 7.15
+  },
+  {
+    "date": "20250328",
+    "avg": 26.02,
+    "solar_capture": 2.7
+  },
+  {
+    "date": "20250329",
+    "avg": 5.17,
+    "solar_capture": 0.54
+  },
+  {
+    "date": "20250331",
+    "avg": 28.73,
+    "solar_capture": 2.47
+  },
+  {
+    "date": "20250401",
+    "avg": 60.57,
+    "solar_capture": 24.74
+  },
+  {
+    "date": "20250402",
+    "avg": 28.01,
+    "solar_capture": 11.81
+  },
+  {
+    "date": "20250403",
+    "avg": 22.1,
+    "solar_capture": 9.69
+  },
+  {
+    "date": "20250404",
+    "avg": 9.65,
+    "solar_capture": 3.16
+  },
+  {
+    "date": "20250405",
+    "avg": 24.42,
+    "solar_capture": 2.16
+  },
+  {
+    "date": "20250406",
+    "avg": 26.56,
+    "solar_capture": 1.04
+  },
+  {
+    "date": "20250407",
+    "avg": 55.04,
+    "solar_capture": 15.03
+  },
+  {
+    "date": "20250408",
+    "avg": 47.67,
+    "solar_capture": 8.22
+  },
+  {
+    "date": "20250409",
+    "avg": 31.98,
+    "solar_capture": 8.42
+  },
+  {
+    "date": "20250410",
+    "avg": 19.2,
+    "solar_capture": 5.53
+  },
+  {
+    "date": "20250411",
+    "avg": 18.35,
+    "solar_capture": 5.99
+  },
+  {
+    "date": "20250412",
+    "avg": 27.01,
+    "solar_capture": 9.39
+  },
+  {
+    "date": "20250413",
+    "avg": 18.35,
+    "solar_capture": 1.9
+  },
+  {
+    "date": "20250414",
+    "avg": 24.54,
+    "solar_capture": 10.94
+  },
+  {
+    "date": "20250415",
+    "avg": 11.73,
+    "solar_capture": 4.24
+  },
+  {
+    "date": "20250416",
+    "avg": 12.14,
+    "solar_capture": 1.24
+  },
+  {
+    "date": "20250417",
+    "avg": 21.94,
+    "solar_capture": 2.61
+  },
+  {
+    "date": "20250418",
+    "avg": 12.35,
+    "solar_capture": 0.62
+  },
+  {
+    "date": "20250419",
+    "avg": 1.72,
+    "solar_capture": -1.91
+  },
+  {
+    "date": "20250420",
+    "avg": 5.84,
+    "solar_capture": -1.58
+  },
+  {
+    "date": "20250421",
+    "avg": 46.72,
+    "solar_capture": 18.56
+  },
+  {
+    "date": "20250422",
+    "avg": 64.2,
+    "solar_capture": 35.51
+  },
+  {
+    "date": "20250423",
+    "avg": 44.24,
+    "solar_capture": 9.04
+  },
+  {
+    "date": "20250424",
+    "avg": 43.68,
+    "solar_capture": 6.46
+  },
+  {
+    "date": "20250425",
+    "avg": 37.46,
+    "solar_capture": 8.71
+  },
+  {
+    "date": "20250426",
+    "avg": 5.54,
+    "solar_capture": -1.37
+  },
+  {
+    "date": "20250427",
+    "avg": 11.59,
+    "solar_capture": -3.06
+  },
+  {
+    "date": "20250428",
+    "avg": 18.26,
+    "solar_capture": 1.3
+  },
+  {
+    "date": "20250429",
+    "avg": 5.79,
+    "solar_capture": -0.42
+  },
+  {
+    "date": "20250430",
+    "avg": 20.54,
+    "solar_capture": 21.57
+  },
+  {
+    "date": "20250501",
+    "avg": 18.85,
+    "solar_capture": 6.9
+  },
+  {
+    "date": "20250502",
+    "avg": 13.99,
+    "solar_capture": 7.27
+  },
+  {
+    "date": "20250503",
+    "avg": 17.39,
+    "solar_capture": 4.3
+  },
+  {
+    "date": "20250504",
+    "avg": 20.71,
+    "solar_capture": 16.72
+  },
+  {
+    "date": "20250505",
+    "avg": 43.94,
+    "solar_capture": 43.87
+  },
+  {
+    "date": "20250506",
+    "avg": 47.92,
+    "solar_capture": 46.22
+  },
+  {
+    "date": "20250507",
+    "avg": 49.19,
+    "solar_capture": 45.52
+  },
+  {
+    "date": "20250508",
+    "avg": 41.86,
+    "solar_capture": 46.68
+  },
+  {
+    "date": "20250509",
+    "avg": 34.46,
+    "solar_capture": 31.29
+  },
+  {
+    "date": "20250510",
+    "avg": 14.04,
+    "solar_capture": 7.44
+  },
+  {
+    "date": "20250511",
+    "avg": 6.96,
+    "solar_capture": 2.09
+  },
+  {
+    "date": "20250512",
+    "avg": 27.84,
+    "solar_capture": 12.74
+  },
+  {
+    "date": "20250513",
+    "avg": 49.86,
+    "solar_capture": 28.27
+  },
+  {
+    "date": "20250514",
+    "avg": 40.21,
+    "solar_capture": 30.75
+  },
+  {
+    "date": "20250515",
+    "avg": 19.74,
+    "solar_capture": 17.71
+  },
+  {
+    "date": "20250516",
+    "avg": 13.58,
+    "solar_capture": 13.27
+  },
+  {
+    "date": "20250517",
+    "avg": 15.85,
+    "solar_capture": 5.63
+  },
+  {
+    "date": "20250518",
+    "avg": 11.94,
+    "solar_capture": 2.9
+  },
+  {
+    "date": "20250519",
+    "avg": 14.73,
+    "solar_capture": 5.88
+  },
+  {
+    "date": "20250520",
+    "avg": 17.22,
+    "solar_capture": 8.44
+  },
+  {
+    "date": "20250521",
+    "avg": 22.9,
+    "solar_capture": 11.15
+  },
+  {
+    "date": "20250522",
+    "avg": 6.92,
+    "solar_capture": 4.93
+  },
+  {
+    "date": "20250523",
+    "avg": 7.75,
+    "solar_capture": 5.02
+  },
+  {
+    "date": "20250524",
+    "avg": 11.9,
+    "solar_capture": 4.8
+  },
+  {
+    "date": "20250525",
+    "avg": 11.02,
+    "solar_capture": 2.66
+  },
+  {
+    "date": "20250526",
+    "avg": 19.23,
+    "solar_capture": 6.15
+  },
+  {
+    "date": "20250527",
+    "avg": 30.92,
+    "solar_capture": 12.9
+  },
+  {
+    "date": "20250528",
+    "avg": 33.7,
+    "solar_capture": 16.26
+  },
+  {
+    "date": "20250529",
+    "avg": 40.18,
+    "solar_capture": 16.63
+  },
+  {
+    "date": "20250530",
+    "avg": 49.98,
+    "solar_capture": 22.03
+  },
+  {
+    "date": "20250531",
+    "avg": 44.83,
+    "solar_capture": 11.36
+  },
+  {
+    "date": "20250601",
+    "avg": 24.23,
+    "solar_capture": 8.4
+  },
+  {
+    "date": "20250602",
+    "avg": 34.96,
+    "solar_capture": 18.99
+  },
+  {
+    "date": "20250603",
+    "avg": 53.95,
+    "solar_capture": 19.37
+  },
+  {
+    "date": "20250604",
+    "avg": 66.15,
+    "solar_capture": 34.33
+  },
+  {
+    "date": "20250605",
+    "avg": 67.84,
+    "solar_capture": 24.36
+  },
+  {
+    "date": "20250606",
+    "avg": 73.65,
+    "solar_capture": 17.96
+  },
+  {
+    "date": "20250607",
+    "avg": 50.62,
+    "solar_capture": 3.98
+  },
+  {
+    "date": "20250608",
+    "avg": 39.73,
+    "solar_capture": 2.3
+  },
+  {
+    "date": "20250609",
+    "avg": 63.19,
+    "solar_capture": 16.73
+  },
+  {
+    "date": "20250610",
+    "avg": 100.19,
+    "solar_capture": 75.03
+  },
+  {
+    "date": "20250611",
+    "avg": 73.63,
+    "solar_capture": 31.52
+  },
+  {
+    "date": "20250612",
+    "avg": 65.59,
+    "solar_capture": 15.52
+  },
+  {
+    "date": "20250613",
+    "avg": 71.92,
+    "solar_capture": 18.76
+  },
+  {
+    "date": "20250614",
+    "avg": 57.6,
+    "solar_capture": 6.18
+  },
+  {
+    "date": "20250615",
+    "avg": 24.69,
+    "solar_capture": 1.66
+  },
+  {
+    "date": "20250616",
+    "avg": 55.71,
+    "solar_capture": 23.29
+  },
+  {
+    "date": "20250617",
+    "avg": 95.32,
+    "solar_capture": 46.57
+  },
+  {
+    "date": "20250618",
+    "avg": 106.32,
+    "solar_capture": 62.96
+  },
+  {
+    "date": "20250619",
+    "avg": 116.46,
+    "solar_capture": 85.99
+  },
+  {
+    "date": "20250620",
+    "avg": 113.25,
+    "solar_capture": 84.06
+  },
+  {
+    "date": "20250621",
+    "avg": 77.04,
+    "solar_capture": 12.1
+  },
+  {
+    "date": "20250622",
+    "avg": 67.36,
+    "solar_capture": 4.48
+  },
+  {
+    "date": "20250623",
+    "avg": 110.56,
+    "solar_capture": 78.82
+  },
+  {
+    "date": "20250624",
+    "avg": 97.18,
+    "solar_capture": 56.81
+  },
+  {
+    "date": "20250625",
+    "avg": 81.06,
+    "solar_capture": 25.54
+  },
+  {
+    "date": "20250626",
+    "avg": 93.03,
+    "solar_capture": 56.19
+  },
+  {
+    "date": "20250627",
+    "avg": 93.1,
+    "solar_capture": 58.51
+  },
+  {
+    "date": "20250628",
+    "avg": 68.86,
+    "solar_capture": 11.87
+  },
+  {
+    "date": "20250629",
+    "avg": 71.07,
+    "solar_capture": 12.19
+  },
+  {
+    "date": "20250630",
+    "avg": 110.94,
+    "solar_capture": 88.08
+  },
+  {
+    "date": "20250701",
+    "avg": 111.2,
+    "solar_capture": 88.61
+  },
+  {
+    "date": "20250702",
+    "avg": 100.36,
+    "solar_capture": 78.94
+  },
+  {
+    "date": "20250703",
+    "avg": 91.33,
+    "solar_capture": 57.83
+  },
+  {
+    "date": "20250704",
+    "avg": 99.63,
+    "solar_capture": 79.06
+  },
+  {
+    "date": "20250705",
+    "avg": 72.35,
+    "solar_capture": 15.07
+  },
+  {
+    "date": "20250706",
+    "avg": 56.11,
+    "solar_capture": 5.77
+  },
+  {
+    "date": "20250707",
+    "avg": 62.09,
+    "solar_capture": 20.69
+  },
+  {
+    "date": "20250708",
+    "avg": 45.95,
+    "solar_capture": 10.29
+  },
+  {
+    "date": "20250709",
+    "avg": 89.7,
+    "solar_capture": 51.55
+  },
+  {
+    "date": "20250710",
+    "avg": 106.97,
+    "solar_capture": 85.29
+  },
+  {
+    "date": "20250711",
+    "avg": 98.25,
+    "solar_capture": 73.53
+  },
+  {
+    "date": "20250712",
+    "avg": 75.91,
+    "solar_capture": 25.43
+  },
+  {
+    "date": "20250713",
+    "avg": 64.59,
+    "solar_capture": 7.28
+  },
+  {
+    "date": "20250714",
+    "avg": 84.2,
+    "solar_capture": 44.22
+  },
+  {
+    "date": "20250715",
+    "avg": 83.11,
+    "solar_capture": 45.16
+  },
+  {
+    "date": "20250716",
+    "avg": 101.98,
+    "solar_capture": 74.78
+  },
+  {
+    "date": "20250717",
+    "avg": 102.85,
+    "solar_capture": 82.17
+  },
+  {
+    "date": "20250718",
+    "avg": 95.08,
+    "solar_capture": 78.55
+  },
+  {
+    "date": "20250719",
+    "avg": 50.16,
+    "solar_capture": 4.98
+  },
+  {
+    "date": "20250720",
+    "avg": 27.22,
+    "solar_capture": 0.6
+  },
+  {
+    "date": "20250721",
+    "avg": 57.61,
+    "solar_capture": 21.57
+  },
+  {
+    "date": "20250722",
+    "avg": 81.88,
+    "solar_capture": 41.94
+  },
+  {
+    "date": "20250723",
+    "avg": 84.43,
+    "solar_capture": 60.82
+  },
+  {
+    "date": "20250724",
+    "avg": 46.2,
+    "solar_capture": 8.95
+  },
+  {
+    "date": "20250725",
+    "avg": 42.08,
+    "solar_capture": 5.97
+  },
+  {
+    "date": "20250726",
+    "avg": 38.53,
+    "solar_capture": 3.0
+  },
+  {
+    "date": "20250727",
+    "avg": 32.39,
+    "solar_capture": 2.13
+  },
+  {
+    "date": "20250728",
+    "avg": 34.22,
+    "solar_capture": 7.12
+  },
+  {
+    "date": "20250729",
+    "avg": 32.15,
+    "solar_capture": 4.81
+  },
+  {
+    "date": "20250730",
+    "avg": 40.46,
+    "solar_capture": 11.3
+  },
+  {
+    "date": "20250731",
+    "avg": 64.22,
+    "solar_capture": 34.06
+  },
+  {
+    "date": "20250801",
+    "avg": 64.79,
+    "solar_capture": 34.6
+  },
+  {
+    "date": "20250802",
+    "avg": 37.28,
+    "solar_capture": 2.82
+  },
+  {
+    "date": "20250803",
+    "avg": 30.51,
+    "solar_capture": 0.23
+  },
+  {
+    "date": "20250804",
+    "avg": 65.63,
+    "solar_capture": 19.43
+  },
+  {
+    "date": "20250805",
+    "avg": 58.8,
+    "solar_capture": 10.31
+  },
+  {
+    "date": "20250806",
+    "avg": 78.5,
+    "solar_capture": 40.5
+  },
+  {
+    "date": "20250807",
+    "avg": 84.06,
+    "solar_capture": 40.76
+  },
+  {
+    "date": "20250808",
+    "avg": 77.63,
+    "solar_capture": 31.01
+  },
+  {
+    "date": "20250809",
+    "avg": 62.04,
+    "solar_capture": 10.27
+  },
+  {
+    "date": "20250810",
+    "avg": 55.51,
+    "solar_capture": 4.45
+  },
+  {
+    "date": "20250811",
+    "avg": 80.1,
+    "solar_capture": 32.82
+  },
+  {
+    "date": "20250812",
+    "avg": 89.7,
+    "solar_capture": 50.49
+  },
+  {
+    "date": "20250813",
+    "avg": 101.2,
+    "solar_capture": 76.84
+  },
+  {
+    "date": "20250814",
+    "avg": 96.7,
+    "solar_capture": 66.88
+  },
+  {
+    "date": "20250815",
+    "avg": 69.27,
+    "solar_capture": 14.37
+  },
+  {
+    "date": "20250816",
+    "avg": 74.22,
+    "solar_capture": 17.69
+  },
+  {
+    "date": "20250817",
+    "avg": 68.76,
+    "solar_capture": 12.2
+  },
+  {
+    "date": "20250818",
+    "avg": 96.68,
+    "solar_capture": 78.12
+  },
+  {
+    "date": "20250819",
+    "avg": 77.72,
+    "solar_capture": 47.9
+  },
+  {
+    "date": "20250820",
+    "avg": 68.31,
+    "solar_capture": 44.67
+  },
+  {
+    "date": "20250821",
+    "avg": 53.92,
+    "solar_capture": 16.63
+  },
+  {
+    "date": "20250822",
+    "avg": 53.61,
+    "solar_capture": 15.34
+  },
+  {
+    "date": "20250823",
+    "avg": 63.5,
+    "solar_capture": 16.71
+  },
+  {
+    "date": "20250824",
+    "avg": 62.35,
+    "solar_capture": 9.22
+  },
+  {
+    "date": "20250825",
+    "avg": 92.3,
+    "solar_capture": 59.58
+  },
+  {
+    "date": "20250826",
+    "avg": 87.75,
+    "solar_capture": 56.57
+  },
+  {
+    "date": "20250827",
+    "avg": 88.03,
+    "solar_capture": 66.71
+  },
+  {
+    "date": "20250828",
+    "avg": 54.38,
+    "solar_capture": 14.77
+  },
+  {
+    "date": "20250829",
+    "avg": 45.75,
+    "solar_capture": 8.1
+  },
+  {
+    "date": "20250830",
+    "avg": 52.66,
+    "solar_capture": 8.42
+  },
+  {
+    "date": "20250831",
+    "avg": 37.3,
+    "solar_capture": 2.72
+  },
+  {
+    "date": "20250901",
+    "avg": 30.65,
+    "solar_capture": 6.77
+  },
+  {
+    "date": "20250902",
+    "avg": 61.77,
+    "solar_capture": 13.45
+  },
+  {
+    "date": "20250903",
+    "avg": 55.32,
+    "solar_capture": 7.39
+  },
+  {
+    "date": "20250904",
+    "avg": 55.68,
+    "solar_capture": 14.13
+  },
+  {
+    "date": "20250905",
+    "avg": 55.73,
+    "solar_capture": 19.19
+  },
+  {
+    "date": "20250906",
+    "avg": 26.54,
+    "solar_capture": 3.15
+  },
+  {
+    "date": "20250907",
+    "avg": 31.84,
+    "solar_capture": 6.09
+  },
+  {
+    "date": "20250908",
+    "avg": 76.37,
+    "solar_capture": 54.13
+  },
+  {
+    "date": "20250909",
+    "avg": 63.56,
+    "solar_capture": 33.96
+  },
+  {
+    "date": "20250910",
+    "avg": 51.57,
+    "solar_capture": 9.51
+  },
+  {
+    "date": "20250911",
+    "avg": 54.68,
+    "solar_capture": 9.76
+  },
+  {
+    "date": "20250912",
+    "avg": 73.65,
+    "solar_capture": 27.33
+  },
+  {
+    "date": "20250913",
+    "avg": 60.84,
+    "solar_capture": 12.51
+  },
+  {
+    "date": "20250914",
+    "avg": 48.87,
+    "solar_capture": 6.95
+  },
+  {
+    "date": "20250915",
+    "avg": 66.88,
+    "solar_capture": 22.27
+  },
+  {
+    "date": "20250916",
+    "avg": 72.64,
+    "solar_capture": 27.21
+  },
+  {
+    "date": "20250917",
+    "avg": 86.01,
+    "solar_capture": 38.95
+  },
+  {
+    "date": "20250918",
+    "avg": 97.01,
+    "solar_capture": 60.85
+  },
+  {
+    "date": "20250919",
+    "avg": 89.55,
+    "solar_capture": 56.66
+  },
+  {
+    "date": "20250920",
+    "avg": 66.33,
+    "solar_capture": 18.03
+  },
+  {
+    "date": "20250921",
+    "avg": 42.29,
+    "solar_capture": 7.17
+  },
+  {
+    "date": "20250922",
+    "avg": 34.53,
+    "solar_capture": 6.6
+  },
+  {
+    "date": "20250923",
+    "avg": 52.27,
+    "solar_capture": 11.21
+  },
+  {
+    "date": "20250924",
+    "avg": 47.6,
+    "solar_capture": 15.9
+  },
+  {
+    "date": "20250925",
+    "avg": 79.4,
+    "solar_capture": 41.4
+  },
+  {
+    "date": "20250926",
+    "avg": 91.65,
+    "solar_capture": 52.55
+  },
+  {
+    "date": "20250927",
+    "avg": 71.79,
+    "solar_capture": 28.01
+  },
+  {
+    "date": "20250928",
+    "avg": 48.79,
+    "solar_capture": 27.01
+  },
+  {
+    "date": "20250929",
+    "avg": 59.06,
+    "solar_capture": 42.4
+  },
+  {
+    "date": "20250930",
+    "avg": 82.8,
+    "solar_capture": 43.04
+  },
+  {
+    "date": "20251001",
+    "avg": 87.09,
+    "solar_capture": 42.7
+  },
+  {
+    "date": "20251002",
+    "avg": 86.32,
+    "solar_capture": 40.61
+  },
+  {
+    "date": "20251003",
+    "avg": 93.25,
+    "solar_capture": 57.36
+  },
+  {
+    "date": "20251004",
+    "avg": 53.13,
+    "solar_capture": 9.39
+  },
+  {
+    "date": "20251005",
+    "avg": 24.3,
+    "solar_capture": 1.64
+  },
+  {
+    "date": "20251006",
+    "avg": 78.53,
+    "solar_capture": 56.95
+  },
+  {
+    "date": "20251007",
+    "avg": 98.65,
+    "solar_capture": 62.57
+  },
+  {
+    "date": "20251008",
+    "avg": 98.3,
+    "solar_capture": 79.33
+  },
+  {
+    "date": "20251009",
+    "avg": 70.29,
+    "solar_capture": 39.08
+  },
+  {
+    "date": "20251010",
+    "avg": 79.22,
+    "solar_capture": 53.84
+  },
+  {
+    "date": "20251011",
+    "avg": 73.7,
+    "solar_capture": 26.75
+  },
+  {
+    "date": "20251012",
+    "avg": 64.66,
+    "solar_capture": 17.77
+  },
+  {
+    "date": "20251013",
+    "avg": 102.66,
+    "solar_capture": 84.51
+  },
+  {
+    "date": "20251014",
+    "avg": 110.67,
+    "solar_capture": 90.92
+  },
+  {
+    "date": "20251015",
+    "avg": 112.06,
+    "solar_capture": 92.63
+  },
+  {
+    "date": "20251016",
+    "avg": 111.46,
+    "solar_capture": 93.53
+  },
+  {
+    "date": "20251017",
+    "avg": 108.73,
+    "solar_capture": 82.52
+  },
+  {
+    "date": "20251018",
+    "avg": 81.03,
+    "solar_capture": 33.11
+  },
+  {
+    "date": "20251019",
+    "avg": 32.78,
+    "solar_capture": 5.98
+  },
+  {
+    "date": "20251020",
+    "avg": 41.64,
+    "solar_capture": 20.96
+  },
+  {
+    "date": "20251021",
+    "avg": 38.38,
+    "solar_capture": 21.15
+  },
+  {
+    "date": "20251022",
+    "avg": 27.99,
+    "solar_capture": 11.4
+  },
+  {
+    "date": "20251023",
+    "avg": 25.06,
+    "solar_capture": 6.98
+  },
+  {
+    "date": "20251024",
+    "avg": 95.93,
+    "solar_capture": 68.47
+  },
+  {
+    "date": "20251025",
+    "avg": 81.7,
+    "solar_capture": 50.51
+  },
+  {
+    "date": "20251027",
+    "avg": 89.72,
+    "solar_capture": 50.96
+  },
+  {
+    "date": "20251028",
+    "avg": 101.52,
+    "solar_capture": 78.69
+  },
+  {
+    "date": "20251029",
+    "avg": 104.74,
+    "solar_capture": 96.27
+  },
+  {
+    "date": "20251031",
+    "avg": 55.79,
+    "solar_capture": 31.77
+  },
+  {
+    "date": "20251101",
+    "avg": 45.58,
+    "solar_capture": 24.3
+  },
+  {
+    "date": "20251102",
+    "avg": 40.02,
+    "solar_capture": 7.45
+  },
+  {
+    "date": "20251103",
+    "avg": 82.89,
+    "solar_capture": 41.97
+  },
+  {
+    "date": "20251104",
+    "avg": 49.44,
+    "solar_capture": 18.26
+  },
+  {
+    "date": "20251105",
+    "avg": 27.75,
+    "solar_capture": 14.48
+  },
+  {
+    "date": "20251106",
+    "avg": 41.24,
+    "solar_capture": 17.36
+  },
+  {
+    "date": "20251107",
+    "avg": 68.22,
+    "solar_capture": 60.54
+  },
+  {
+    "date": "20251108",
+    "avg": 44.73,
+    "solar_capture": 19.0
+  },
+  {
+    "date": "20251109",
+    "avg": 58.19,
+    "solar_capture": 21.81
+  },
+  {
+    "date": "20251110",
+    "avg": 81.69,
+    "solar_capture": 53.41
+  },
+  {
+    "date": "20251111",
+    "avg": 66.88,
+    "solar_capture": 26.58
+  },
+  {
+    "date": "20251112",
+    "avg": 27.78,
+    "solar_capture": 9.82
+  },
+  {
+    "date": "20251113",
+    "avg": 31.9,
+    "solar_capture": 29.91
+  },
+  {
+    "date": "20251114",
+    "avg": 29.39,
+    "solar_capture": 25.42
+  },
+  {
+    "date": "20251115",
+    "avg": 31.46,
+    "solar_capture": 29.94
+  },
+  {
+    "date": "20251116",
+    "avg": 34.14,
+    "solar_capture": 9.98
+  },
+  {
+    "date": "20251117",
+    "avg": 79.21,
+    "solar_capture": 61.64
+  },
+  {
+    "date": "20251118",
+    "avg": 79.38,
+    "solar_capture": 45.84
+  },
+  {
+    "date": "20251119",
+    "avg": 100.16,
+    "solar_capture": 83.57
+  },
+  {
+    "date": "20251120",
+    "avg": 84.52,
+    "solar_capture": 64.77
+  },
+  {
+    "date": "20251121",
+    "avg": 63.54,
+    "solar_capture": 28.4
+  },
+  {
+    "date": "20251122",
+    "avg": 59.07,
+    "solar_capture": 18.63
+  },
+  {
+    "date": "20251123",
+    "avg": 39.88,
+    "solar_capture": 10.92
+  },
+  {
+    "date": "20251124",
+    "avg": 41.77,
+    "solar_capture": 41.82
+  },
+  {
+    "date": "20251125",
+    "avg": 48.17,
+    "solar_capture": 20.6
+  },
+  {
+    "date": "20251126",
+    "avg": 73.67,
+    "solar_capture": 45.51
+  },
+  {
+    "date": "20251128",
+    "avg": 98.73,
+    "solar_capture": 84.73
+  },
+  {
+    "date": "20251129",
+    "avg": 82.24,
+    "solar_capture": 61.05
+  },
+  {
+    "date": "20251130",
+    "avg": 74.92,
+    "solar_capture": 62.31
+  },
+  {
+    "date": "20251201",
+    "avg": 91.78,
+    "solar_capture": 78.5
+  },
+  {
+    "date": "20251202",
+    "avg": 88.65,
+    "solar_capture": 84.82
+  },
+  {
+    "date": "20251203",
+    "avg": 70.42,
+    "solar_capture": 44.93
+  },
+  {
+    "date": "20251204",
+    "avg": 64.77,
+    "solar_capture": 60.03
+  },
+  {
+    "date": "20251205",
+    "avg": 70.62,
+    "solar_capture": 70.78
+  },
+  {
+    "date": "20251206",
+    "avg": 33.07,
+    "solar_capture": 23.85
+  },
+  {
+    "date": "20251207",
+    "avg": 32.3,
+    "solar_capture": 11.12
+  },
+  {
+    "date": "20251208",
+    "avg": 55.32,
+    "solar_capture": 31.07
+  },
+  {
+    "date": "20251209",
+    "avg": 63.17,
+    "solar_capture": 36.62
+  },
+  {
+    "date": "20251210",
+    "avg": 103.01,
+    "solar_capture": 103.17
+  },
+  {
+    "date": "20251211",
+    "avg": 96.19,
+    "solar_capture": 85.83
+  },
+  {
+    "date": "20251212",
+    "avg": 97.19,
+    "solar_capture": 101.78
+  },
+  {
+    "date": "20251213",
+    "avg": 79.2,
+    "solar_capture": 70.32
+  },
+  {
+    "date": "20251214",
+    "avg": 78.57,
+    "solar_capture": 67.39
+  },
+  {
+    "date": "20251215",
+    "avg": 92.47,
+    "solar_capture": 93.92
+  },
+  {
+    "date": "20251216",
+    "avg": 94.53,
+    "solar_capture": 93.74
+  },
+  {
+    "date": "20251217",
+    "avg": 101.41,
+    "solar_capture": 97.49
+  },
+  {
+    "date": "20251218",
+    "avg": 85.05,
+    "solar_capture": 59.51
+  },
+  {
+    "date": "20251219",
+    "avg": 102.76,
+    "solar_capture": 106.06
+  },
+  {
+    "date": "20251220",
+    "avg": 70.77,
+    "solar_capture": 63.22
+  },
+  {
+    "date": "20251221",
+    "avg": 61.48,
+    "solar_capture": 61.63
+  },
+  {
+    "date": "20251222",
+    "avg": 70.6,
+    "solar_capture": 74.43
+  },
+  {
+    "date": "20251223",
+    "avg": 77.91,
+    "solar_capture": 83.82
+  },
+  {
+    "date": "20251224",
+    "avg": 40.64,
+    "solar_capture": 30.48
+  },
+  {
+    "date": "20251225",
+    "avg": 48.7,
+    "solar_capture": 38.44
+  },
+  {
+    "date": "20251226",
+    "avg": 89.2,
+    "solar_capture": 84.69
+  },
+  {
+    "date": "20251227",
+    "avg": 80.12,
+    "solar_capture": 74.94
+  },
+  {
+    "date": "20251228",
+    "avg": 78.94,
+    "solar_capture": 81.08
+  },
+  {
+    "date": "20251229",
+    "avg": 107.2,
+    "solar_capture": 99.64
+  },
+  {
+    "date": "20251230",
+    "avg": 91.24,
+    "solar_capture": 82.08
+  },
+  {
+    "date": "20251231",
+    "avg": 97.82,
+    "solar_capture": 93.8
+  },
+  {
+    "date": "20260101",
+    "avg": 81.87,
+    "solar_capture": 63.5
+  },
+  {
+    "date": "20260102",
+    "avg": 82.93,
+    "solar_capture": 84.72
+  },
+  {
+    "date": "20260103",
+    "avg": 88.43,
+    "solar_capture": 92.16
+  },
+  {
+    "date": "20260104",
+    "avg": 66.78,
+    "solar_capture": 60.34
+  },
+  {
+    "date": "20260105",
+    "avg": 95.44,
+    "solar_capture": 101.73
+  },
+  {
+    "date": "20260106",
+    "avg": 63.07,
+    "solar_capture": 20.46
+  },
+  {
+    "date": "20260107",
+    "avg": 102.33,
+    "solar_capture": 101.98
+  },
+  {
+    "date": "20260108",
+    "avg": 81.79,
+    "solar_capture": 73.59
+  },
+  {
+    "date": "20260109",
+    "avg": 53.43,
+    "solar_capture": 37.74
+  },
+  {
+    "date": "20260110",
+    "avg": 73.23,
+    "solar_capture": 54.02
+  },
+  {
+    "date": "20260111",
+    "avg": 80.63,
+    "solar_capture": 64.77
+  },
+  {
+    "date": "20260112",
+    "avg": 88.51,
+    "solar_capture": 84.61
+  },
+  {
+    "date": "20260113",
+    "avg": 95.69,
+    "solar_capture": 88.71
+  },
+  {
+    "date": "20260114",
+    "avg": 117.76,
+    "solar_capture": 117.64
+  },
+  {
+    "date": "20260115",
+    "avg": 106.41,
+    "solar_capture": 97.34
+  },
+  {
+    "date": "20260116",
+    "avg": 118.99,
+    "solar_capture": 120.23
+  },
+  {
+    "date": "20260117",
+    "avg": 127.24,
+    "solar_capture": 119.95
+  },
+  {
+    "date": "20260118",
+    "avg": 118.39,
+    "solar_capture": 104.74
+  },
+  {
+    "date": "20260119",
+    "avg": 129.06,
+    "solar_capture": 127.63
+  },
+  {
+    "date": "20260120",
+    "avg": 102.13,
+    "solar_capture": 96.41
+  },
+  {
+    "date": "20260121",
+    "avg": 82.38,
+    "solar_capture": 79.85
+  },
+  {
+    "date": "20260122",
+    "avg": 59.84,
+    "solar_capture": 63.39
+  },
+  {
+    "date": "20260123",
+    "avg": 38.4,
+    "solar_capture": 13.31
+  },
+  {
+    "date": "20260124",
+    "avg": 21.04,
+    "solar_capture": 13.03
+  },
+  {
+    "date": "20260125",
+    "avg": 11.25,
+    "solar_capture": 2.02
+  },
+  {
+    "date": "20260126",
+    "avg": 34.13,
+    "solar_capture": 40.27
+  },
+  {
+    "date": "20260127",
+    "avg": 28.82,
+    "solar_capture": 26.66
+  },
+  {
+    "date": "20260128",
+    "avg": 27.46,
+    "solar_capture": 22.8
+  },
+  {
+    "date": "20260129",
+    "avg": 19.32,
+    "solar_capture": 23.12
+  },
+  {
+    "date": "20260130",
+    "avg": 4.52,
+    "solar_capture": 2.25
+  },
+  {
+    "date": "20260131",
+    "avg": 5.49,
+    "solar_capture": 0.36
+  },
+  {
+    "date": "20260201",
+    "avg": 1.04,
+    "solar_capture": 1.59
+  },
+  {
+    "date": "20260202",
+    "avg": 4.46,
+    "solar_capture": 0.45
+  },
+  {
+    "date": "20260203",
+    "avg": 10.72,
+    "solar_capture": 3.32
+  },
+  {
+    "date": "20260204",
+    "avg": 8.2,
+    "solar_capture": 6.04
+  },
+  {
+    "date": "20260205",
+    "avg": 2.01,
+    "solar_capture": 0.57
+  },
+  {
+    "date": "20260206",
+    "avg": 5.22,
+    "solar_capture": 1.89
+  },
+  {
+    "date": "20260207",
+    "avg": 0.54,
+    "solar_capture": 0.08
+  },
+  {
+    "date": "20260208",
+    "avg": 0.8,
+    "solar_capture": -0.03
+  },
+  {
+    "date": "20260209",
+    "avg": 3.25,
+    "solar_capture": 3.64
+  },
+  {
+    "date": "20260210",
+    "avg": 1.82,
+    "solar_capture": 0.87
+  },
+  {
+    "date": "20260211",
+    "avg": 0.34,
+    "solar_capture": 0.34
+  },
+  {
+    "date": "20260212",
+    "avg": 5.76,
+    "solar_capture": 0.84
+  },
+  {
+    "date": "20260213",
+    "avg": 1.07,
+    "solar_capture": 0.28
+  },
+  {
+    "date": "20260214",
+    "avg": 2.13,
+    "solar_capture": -2.59
+  },
+  {
+    "date": "20260215",
+    "avg": 0.91,
+    "solar_capture": -1.45
+  },
+  {
+    "date": "20260216",
+    "avg": 3.5,
+    "solar_capture": 0.55
+  },
+  {
+    "date": "20260217",
+    "avg": 8.72,
+    "solar_capture": 2.09
+  },
+  {
+    "date": "20260218",
+    "avg": 5.11,
+    "solar_capture": 2.64
+  },
+  {
+    "date": "20260219",
+    "avg": 14.82,
+    "solar_capture": 2.96
+  },
+  {
+    "date": "20260220",
+    "avg": 30.12,
+    "solar_capture": 12.03
+  },
+  {
+    "date": "20260221",
+    "avg": 24.8,
+    "solar_capture": 4.47
+  },
+  {
+    "date": "20260222",
+    "avg": 16.96,
+    "solar_capture": 2.02
+  },
+  {
+    "date": "20260223",
+    "avg": 33.67,
+    "solar_capture": 13.89
+  },
+  {
+    "date": "20260224",
+    "avg": 17.32,
+    "solar_capture": 4.5
+  },
+  {
+    "date": "20260225",
+    "avg": 30.77,
+    "solar_capture": 16.09
+  },
+  {
+    "date": "20260226",
+    "avg": 29.02,
+    "solar_capture": 8.88
+  },
+  {
+    "date": "20260227",
+    "avg": 21.25,
+    "solar_capture": 8.89
+  },
+  {
+    "date": "20260228",
+    "avg": 13.74,
+    "solar_capture": 1.66
+  },
+  {
+    "date": "20260301",
+    "avg": 15.08,
+    "solar_capture": 0.45
+  },
+  {
+    "date": "20260302",
+    "avg": 18.39,
+    "solar_capture": 4.76
+  },
+  {
+    "date": "20260303",
+    "avg": 28.43,
+    "solar_capture": 7.89
+  },
+  {
+    "date": "20260304",
+    "avg": 56.4,
+    "solar_capture": 24.46
+  },
+  {
+    "date": "20260305",
+    "avg": 86.44,
+    "solar_capture": 66.22
+  },
+  {
+    "date": "20260306",
+    "avg": 63.24,
+    "solar_capture": 57.92
+  },
+  {
+    "date": "20260307",
+    "avg": 62.57,
+    "solar_capture": 33.67
+  },
+  {
+    "date": "20260308",
+    "avg": 73.29,
+    "solar_capture": 32.93
+  },
+  {
+    "date": "20260309",
+    "avg": 110.93,
+    "solar_capture": 97.28
+  },
+  {
+    "date": "20260310",
+    "avg": 131.79,
+    "solar_capture": 108.31
+  },
+  {
+    "date": "20260311",
+    "avg": 100.71,
+    "solar_capture": 46.4
+  },
+  {
+    "date": "20260312",
+    "avg": 72.9,
+    "solar_capture": 16.35
+  },
+  {
+    "date": "20260313",
+    "avg": 38.02,
+    "solar_capture": 6.17
+  },
+  {
+    "date": "20260314",
+    "avg": 14.39,
+    "solar_capture": 1.76
+  },
+  {
+    "date": "20260315",
+    "avg": 6.44,
+    "solar_capture": -1.35
+  },
+  {
+    "date": "20260316",
+    "avg": 37.18,
+    "solar_capture": 3.77
+  },
+  {
+    "date": "20260317",
+    "avg": 45.76,
+    "solar_capture": 4.82
+  },
+  {
+    "date": "20260318",
+    "avg": 28.67,
+    "solar_capture": 6.24
+  },
+  {
+    "date": "20260319",
+    "avg": 24.95,
+    "solar_capture": 4.16
+  },
+  {
+    "date": "20260320",
+    "avg": 37.57,
+    "solar_capture": 14.07
+  },
+  {
+    "date": "20260321",
+    "avg": 41.47,
+    "solar_capture": 14.1
+  },
+  {
+    "date": "20260322",
+    "avg": 28.24,
+    "solar_capture": 2.01
+  },
+  {
+    "date": "20260323",
+    "avg": 33.81,
+    "solar_capture": 5.5
+  },
+  {
+    "date": "20260324",
+    "avg": 53.65,
+    "solar_capture": 8.22
+  },
+  {
+    "date": "20260325",
+    "avg": 19.1,
+    "solar_capture": 1.22
+  },
+  {
+    "date": "20260326",
+    "avg": 5.02,
+    "solar_capture": -1.64
+  },
+  {
+    "date": "20260327",
+    "avg": 9.04,
+    "solar_capture": -2.89
+  },
+  {
+    "date": "20260328",
+    "avg": 3.03,
+    "solar_capture": -3.42
+  },
+  {
+    "date": "20260329",
+    "avg": 0.5,
+    "solar_capture": -5.94
+  },
+  {
+    "date": "20260330",
+    "avg": 10.7,
+    "solar_capture": 0.07
+  },
+  {
+    "date": "20260331",
+    "avg": 7.44,
+    "solar_capture": -1.17
+  },
+  {
+    "date": "20260401",
+    "avg": 5.65,
+    "solar_capture": -0.95
+  },
+  {
+    "date": "20260402",
+    "avg": 5.99,
+    "solar_capture": -0.58
+  },
+  {
+    "date": "20260403",
+    "avg": 15.06,
+    "solar_capture": -2.58
+  },
+  {
+    "date": "20260404",
+    "avg": 21.88,
+    "solar_capture": 0.31
+  },
+  {
+    "date": "20260405",
+    "avg": 23.16,
+    "solar_capture": -3.36
+  },
+  {
+    "date": "20260406",
+    "avg": 18.85,
+    "solar_capture": -2.85
+  },
+  {
+    "date": "20260407",
+    "avg": 33.67,
+    "solar_capture": 6.03
+  }
+]
